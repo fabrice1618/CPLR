@@ -29,6 +29,8 @@
 - UML: diagramme use case
 - UML: diagramme bloc ou diagramme déploiement
 - schéma réseau et/ou schéma synoptique
+- sitemap (plan de site)
+- mockup
 
 ## Démonstration / recette
 - diaporama présentant les tests de validation et cas d'utilisation correspondant
